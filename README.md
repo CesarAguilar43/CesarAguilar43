@@ -3,7 +3,7 @@
 # About Me
 ### Hi 👋, I am Cesar Aguilar!
 
-I have two years in Software Development working with technologies as NodeJS and React as well
+I have three years in Software Development working with technologies as NodeJS and React as well
 as with Architecture REST/API and Graphql. I am a person with a passion for teaching, empathy,
 with a positive attitude and a desire to learn new technologies
 
